@@ -1,9 +1,9 @@
 {
-  "name": "my-portfolio",
+  "name": "Portifolio",
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://arnoldkhamisi.github.io/my-portfolio",
+  "homepage": "https://arnoldkhamisi.github.io/Portifolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

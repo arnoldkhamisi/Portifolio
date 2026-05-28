@@ -49,7 +49,7 @@ const projects = [
 const skillCategories = [
   {
     title: 'Mobile Development',
-    items: ['React Native', 'Android Studio (Kotlin & Java)', 'Flutter (basics)', 'Responsive Design', 'Firebase'],
+    items: ['React Native', 'Android Studio (Kotlin & Java)', 'Responsive Design', 'Firebase'],
   },
   {
     title: 'Backend & Database',
@@ -65,11 +65,11 @@ const skillCategories = [
   },
   {
     title: 'Network Infrastructure',
-    items: ['Routing & Switching', 'Network Configuration', 'Network Security', 'Network Monitoring', 'Network Troubleshooting', 'Network Administration', 'Cable Termination & Crimping', 'Linux'],
+    items: ['Routing & Switching', 'Network Configuration', 'Network Security', 'Network Monitoring', 'Network Troubleshooting', 'Network Administration', 'Cable Termination & Crimping'],
   },
   {
     title: 'Graphics Designing',
-    items: ['Canva', 'Photoshop', 'Figma', 'Illustrator', 'InDesign', 'Adobe Lightroom'],
+    items: ['Canva', 'Photoshop', 'Figma', 'Illustrator', 'Adobe Lightroom'],
   },
 ];
 

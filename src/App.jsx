@@ -18,7 +18,7 @@ const projects = [
     title: 'Movie Web App',
     description: 'A responsive web application for watching movies. It allows users to watch trailers, view movie details, and read reviews. It also allows users to search for movies and be able to save their favorites.',
     image: 'https://placehold.co/600x400/374151/9ca3af?text=Project+Two',
-    url: 'https://movie-bass.vercel.app/movie/1304313',
+    url: 'https://movie-bass.vercel.app/movie/',
   },
   {
     title: 'eCommerce',
